@@ -1,0 +1,394 @@
+﻿Desinstalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Removendo a origem do EventLog WinServiceCLPCash.
+Aviso: a origem WinServiceCLPCash não está registrada no computador local.
+Serviço WinServiceCLPCash está sendo removido do sistema...
+Ocorreu uma exceção durante a desinstalação do instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Instalando o serviço WinServiceCLPCash...
+Criando a origem de EventLog WinServiceCLPCash no log Application...
+Revertendo o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Restaurando o log de eventos para o estado anterior da origem WinServiceCLPCash.
+Instalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Revertendo o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Instalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Instalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Instalando o serviço WinServiceCLPCash...
+Serviço WinServiceCLPCash foi instalado com êxito.
+Criando a origem de EventLog WinServiceCLPCash no log Application...
+Confirmando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Instalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Revertendo o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Desinstalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Removendo a origem do EventLog WinServiceCLPCash.
+Serviço WinServiceCLPCash está sendo removido do sistema...
+Serviço WinServiceCLPCash foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Instalando o serviço WinServiceCLPCash...
+Serviço WinServiceCLPCash foi instalado com êxito.
+Criando a origem de EventLog WinServiceCLPCash no log Application...
+Confirmando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Desinstalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Removendo a origem do EventLog WinServiceCLPCash.
+Serviço WinServiceCLPCash está sendo removido do sistema...
+Serviço WinServiceCLPCash foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Instalando o serviço WinServiceCLPCash...
+Criando a origem de EventLog WinServiceCLPCash no log Application...
+Revertendo o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Restaurando o log de eventos para o estado anterior da origem WinServiceCLPCash.
+Instalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Instalando o serviço WinServiceCLPCash...
+Criando a origem de EventLog WinServiceCLPCash no log Application...
+Revertendo o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Restaurando o log de eventos para o estado anterior da origem WinServiceCLPCash.
+Instalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Instalando o serviço WinServiceCLPCash...
+Serviço WinServiceCLPCash foi instalado com êxito.
+Criando a origem de EventLog WinServiceCLPCash no log Application...
+Confirmando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Desinstalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Removendo a origem do EventLog WinServiceCLPCash.
+Serviço WinServiceCLPCash está sendo removido do sistema...
+Serviço WinServiceCLPCash foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Instalando o serviço WinServiceCLPCash...
+Serviço WinServiceCLPCash foi instalado com êxito.
+Criando a origem de EventLog WinServiceCLPCash no log Application...
+Confirmando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Desinstalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Removendo a origem do EventLog WinServiceCLPCash.
+Serviço WinServiceCLPCash está sendo removido do sistema...
+Serviço WinServiceCLPCash foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Instalando o serviço WinServiceCLPCash...
+Serviço WinServiceCLPCash foi instalado com êxito.
+Criando a origem de EventLog WinServiceCLPCash no log Application...
+Confirmando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Desinstalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Removendo a origem do EventLog WinServiceCLPCash.
+Serviço WinServiceCLPCash está sendo removido do sistema...
+Serviço WinServiceCLPCash foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Instalando o serviço WinServiceCLPCash...
+Serviço WinServiceCLPCash foi instalado com êxito.
+Criando a origem de EventLog WinServiceCLPCash no log Application...
+Confirmando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Desinstalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Removendo a origem do EventLog WinServiceCLPCash.
+Serviço WinServiceCLPCash está sendo removido do sistema...
+Serviço WinServiceCLPCash foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Instalando o serviço WinServiceCLPCash...
+Serviço WinServiceCLPCash foi instalado com êxito.
+Criando a origem de EventLog WinServiceCLPCash no log Application...
+Confirmando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Desinstalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Removendo a origem do EventLog WinServiceCLPCash.
+Serviço WinServiceCLPCash está sendo removido do sistema...
+Serviço WinServiceCLPCash foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Instalando o serviço WinServiceCLPCash...
+Criando a origem de EventLog WinServiceCLPCash no log Application...
+Revertendo o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Restaurando o log de eventos para o estado anterior da origem WinServiceCLPCash.
+Instalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Instalando o serviço WinServiceCLPCash...
+Criando a origem de EventLog WinServiceCLPCash no log Application...
+Revertendo o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Restaurando o log de eventos para o estado anterior da origem WinServiceCLPCash.
+Instalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Instalando o serviço WinServiceCLPCash...
+Serviço WinServiceCLPCash foi instalado com êxito.
+Criando a origem de EventLog WinServiceCLPCash no log Application...
+Confirmando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Instalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Instalando o serviço WinServiceCLPCash...
+Criando a origem de EventLog WinServiceCLPCash no log Application...
+Revertendo o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Restaurando o log de eventos para o estado anterior da origem WinServiceCLPCash.
+Desinstalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Removendo a origem do EventLog WinServiceCLPCash.
+Serviço WinServiceCLPCash está sendo removido do sistema...
+Serviço WinServiceCLPCash foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Instalando o serviço WinServiceCLPCash...
+Serviço WinServiceCLPCash foi instalado com êxito.
+Criando a origem de EventLog WinServiceCLPCash no log Application...
+Confirmando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Desinstalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Removendo a origem do EventLog WSCashCLP.
+Aviso: a origem WSCashCLP não está registrada no computador local.
+Serviço WSCashCLP está sendo removido do sistema...
+Ocorreu uma exceção durante a desinstalação do instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Desinstalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Removendo a origem do EventLog WSCashCLP.
+Aviso: a origem WSCashCLP não está registrada no computador local.
+Serviço WSCashCLP está sendo removido do sistema...
+Ocorreu uma exceção durante a desinstalação do instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Instalando o serviço WSCashCLP...
+Serviço WSCashCLP foi instalado com êxito.
+Criando a origem de EventLog WSCashCLP no log Application...
+Confirmando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Desinstalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Removendo a origem do EventLog WSCashCLP.
+Serviço WSCashCLP está sendo removido do sistema...
+Serviço WSCashCLP foi removido com êxito do sistema.
+Desinstalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Removendo a origem do EventLog WSCashCLP.
+Aviso: a origem WSCashCLP não está registrada no computador local.
+Serviço WSCashCLP está sendo removido do sistema...
+Ocorreu uma exceção durante a desinstalação do instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Desinstalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Removendo a origem do EventLog WSCashCLP.
+Aviso: a origem WSCashCLP não está registrada no computador local.
+Serviço WSCashCLP está sendo removido do sistema...
+Ocorreu uma exceção durante a desinstalação do instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Instalando o serviço WSCashCLP...
+Serviço WSCashCLP foi instalado com êxito.
+Criando a origem de EventLog WSCashCLP no log Application...
+Confirmando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Desinstalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Removendo a origem do EventLog WSCashCLP.
+Serviço WSCashCLP está sendo removido do sistema...
+Serviço WSCashCLP foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+Instalando o serviço WSCashCLP...
+Serviço WSCashCLP foi instalado com êxito.
+Criando a origem de EventLog WSCashCLP no log Application...
+Confirmando o assembly 'C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.InstallLog
+   assemblypath = C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe

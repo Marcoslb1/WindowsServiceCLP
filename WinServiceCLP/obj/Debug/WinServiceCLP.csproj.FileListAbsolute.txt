@@ -1,0 +1,36 @@
+C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe.config
+C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.pdb
+C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\obj\Debug\WinServiceCLP.csprojAssemblyReference.cache
+C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\obj\Debug\WinServiceCLP.ProjectInstaller.resources
+C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\obj\Debug\WinServiceCLP.csproj.GenerateResource.cache
+C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\obj\Debug\WinServiceCLP.csproj.CoreCompileInputs.cache
+C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\obj\Debug\WinServiceCLP.exe
+C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\obj\Debug\WinServiceCLP.pdb
+C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\ClpCash.dll
+C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\ClpCash.pdb
+C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\obj\Debug\WinServiceCLP.csproj.CopyComplete
+C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\obj\Debug\WinServiceCLP.Service1.resources
+C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\ClpCash.dll.config
+C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\Dapper.dll
+C:\Users\mtzmarconunes\Documents\clp\Nova pasta\WcfService2\WinServiceCLP\bin\Debug\Dapper.xml
+C:\sistemas\cash\WKF1162342\Code\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe.config
+C:\sistemas\cash\WKF1162342\Code\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe
+C:\sistemas\cash\WKF1162342\Code\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.pdb
+C:\sistemas\cash\WKF1162342\Code\WcfService2\WinServiceCLP\bin\Debug\ClpCash.dll
+C:\sistemas\cash\WKF1162342\Code\WcfService2\WinServiceCLP\bin\Debug\Dapper.dll
+C:\sistemas\cash\WKF1162342\Code\WcfService2\WinServiceCLP\bin\Debug\ClpCash.pdb
+C:\sistemas\cash\WKF1162342\Code\WcfService2\WinServiceCLP\bin\Debug\ClpCash.dll.config
+C:\sistemas\cash\WKF1162342\Code\WcfService2\WinServiceCLP\bin\Debug\Dapper.xml
+C:\sistemas\cash\WKF1162342\Code\WcfService2\WinServiceCLP\obj\Debug\WinServiceCLP.csprojAssemblyReference.cache
+C:\sistemas\cash\WKF1162342\Code\WcfService2\WinServiceCLP\obj\Debug\WinServiceCLP.ProjectInstaller.resources
+C:\sistemas\cash\WKF1162342\Code\WcfService2\WinServiceCLP\obj\Debug\WinServiceCLP.Service1.resources
+C:\sistemas\cash\WKF1162342\Code\WcfService2\WinServiceCLP\obj\Debug\WinServiceCLP.csproj.GenerateResource.cache
+C:\sistemas\cash\WKF1162342\Code\WcfService2\WinServiceCLP\obj\Debug\WinServiceCLP.csproj.CoreCompileInputs.cache
+C:\sistemas\cash\WKF1162342\Code\WcfService2\WinServiceCLP\obj\Debug\WinServiceCLP.csproj.CopyComplete
+C:\sistemas\cash\WKF1162342\Code\WcfService2\WinServiceCLP\obj\Debug\WinServiceCLP.exe
+C:\sistemas\cash\WKF1162342\Code\WcfService2\WinServiceCLP\obj\Debug\WinServiceCLP.pdb
+C:\sistemas\cash\WKF1162342\Code\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.exe.manifest
+C:\sistemas\cash\WKF1162342\Code\WcfService2\WinServiceCLP\bin\Debug\WinServiceCLP.application
+C:\sistemas\cash\WKF1162342\Code\WcfService2\WinServiceCLP\obj\Debug\WinServiceCLP.exe.manifest
+C:\sistemas\cash\WKF1162342\Code\WcfService2\WinServiceCLP\obj\Debug\WinServiceCLP.application
